@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Shawn Leavor and I'm a Tampa native. I started this blog as a way to answer and archive random questions that I wanted the answer to. I'm hoping you find the questions as interesting as I do and look into the questions.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I hope that this can become a portfolio for different topics. I'm mostly inspired by the Freakonomics podcast series and the topics that they search in.
+
+Outside of this, I'm also a fan of travel, food, and drink. I enjoy traveling and experiencing new things, so occasionally that could show up here as well. I'm open to any suggestions, so feel free to shoot them over to sleavor@yahoo.com.
+
+Hope you enjoy!
