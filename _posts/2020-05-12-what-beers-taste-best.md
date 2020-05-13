@@ -1,6 +1,7 @@
 ---
 title: "What Beers Taste The Best?"
 last_modified_at: 2020-01-25T16:20:02-05:00
+published: True
 categories:
   - Blog
 tags:
@@ -12,7 +13,7 @@ Which beers taste the best?
 
 I've drank a lot of beer in my day. According to Untappd, I've drank over 700 different beers, which is more than I probably should be proud of. After spending thousands and thousands of dollars on different beers, I started to wonder, does more expensive beer taste better? I originally wanted to compare the price of a beer per ounce to it's rating, but after many failures, I pivoted and decided to find out which beers are the best. I originally planned to scrape all the prices from totalwine.com and grab their ratings data from [beeradvocate.com](beeradvocate.com). I had the code set up, but I was unable to get past totalwine's anti-bot software, so I settled on just the data from beeradvocate. 
 
-Using beeradvocate.com, I was able to get a beer's brewery, style, abv, and, of course, rating. While this data gives us less insight than looking at the price of the beer, it was still interesting to look at. In the end, I was able to find which brewery and style had the best average ratings. For a look at the code and data visit [my github](github.com/sleavor).
+Using beeradvocate.com, I was able to get a beer's brewery, style, abv, and, of course, rating. While this data gives us less insight than looking at the price of the beer, it was still interesting to look at. In the end, I was able to find which brewery and style had the best average ratings. For a look at the code and data visit [my github](github.com/sleavor/Beer-Project).
 
 We started out by building a spider using Scrapy to get all the data. After over 24 hours, a computer auto-update, and multiple attempts at webscraping, we finally had all the data. In this case, all the data means 471,339 rows of different beers. Sadly, a lot of these rows had to be removed due to incomplete sets or a low number of reviews. Using the missingno library for python, we were able to see the amount of data that was available. 
 
