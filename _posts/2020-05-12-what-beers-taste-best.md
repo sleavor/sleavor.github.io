@@ -29,10 +29,12 @@ Doesn't tell us anything, right? So the next goal was to make this look a bit pr
 
 Again, this didn't produce anything pretty, but it helps you separate the data a bit. Using matplotlib was a bit limiting, because there were 100+ styles and only so many colors to use. It's also difficult to see which data points belong to which beer style. You could make some inferences, like heavier ABV beers of a certain color are probably imperial stouts, since those are normally heavier beers. But there's still not much in the data for us to look at. Finally, I decided that we could create a graph for each individual style and brewery, so then we're able to see data based on these two groups.
 
-This is still a bit problematic, because there's over 100 styles and, even worse, over 9000 breweries. So you'll get over 9000 total graphs. It's fun to look at for a specific brewery or style, like below.
+This is still a bit problematic, because there's over 100 styles and, even worse, over 9000 breweries. So you'll get over 9000 total graphs. Still, it's fun to look at for a specific brewery or style, like below. 
 
 ![Graph of Amerian Imperial Stout](/assets/images/BeerBlog/AmericanImperialStout.png){:class="img-responsive"}
 
-Here, the data is a little more clear and you can see a trend in the style. Looking through this, I noticed that abv may not have had a huge effect on the rating, but the style of beer definitely did. So I decided to go through the data set and grab the average rating for each brewery and style of beer. 
+Here, the data is a little more clear and you can see a trend in the style. Looking through this, I noticed that abv may not have had a huge effect on the rating, but the style of beer definitely did. So I decided to go through the data set and grab the average rating for each brewery and style of beer. This would help us decide which style of beer, on average, was the best. As well as which brewery consistently made the best beer, according to raters. While doing this, I got rid of breweries and styles with less than 5 beers, to get rid of any skewness that can be caused by such a low number of beers.
+
+So what conclusions can we draw from any of this? Well not many really. 
 
 
