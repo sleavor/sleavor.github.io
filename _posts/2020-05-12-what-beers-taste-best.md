@@ -9,7 +9,7 @@ tags:
   - Beer
 ---
 
-#Which beers taste the best?
+*Which beers taste the best?*
 
 I've drank a lot of beer in my day. According to Untappd, I've drank over 700 different beers, which is more than I probably should be proud of. After spending thousands and thousands of dollars on different beers, I started to wonder, does more expensive beer taste better? I originally wanted to compare the price of a beer per ounce to it's rating, but after many failures, I pivoted and decided to find out which beers are the best. I originally planned to scrape all the prices from totalwine.com and grab their ratings data from [beeradvocate.com](beeradvocate.com). I had the code set up, but I was unable to get past totalwine's anti-bot software, so I settled on just the data from beeradvocate. 
 

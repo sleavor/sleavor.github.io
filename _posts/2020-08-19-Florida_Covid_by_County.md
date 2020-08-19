@@ -8,7 +8,7 @@ tags:
   - COVID
 ---
 
-#Are COVID cases rising in your (FL) county?
+*Are COVID cases rising in your (FL) county?*
 
 COVID-19 has been raging through the United States for the greater part of 6 months now, so I'm probably late to the game in developing this, but I still haven't seen a tool like it. My latest project is a COVID-19 tracking tool that grabs the new cases in each county (FL only, but you can edit it for your state) and tells you whether the cases are falling or rising in your county via an interactive graph. This can be a really useful tool to quickly see how COVID is moving in your case, but it shouldn't be a replacement for practicing exercises like wearing a mask and social distancing.
 
