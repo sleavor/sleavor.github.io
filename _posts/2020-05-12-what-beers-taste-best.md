@@ -1,6 +1,5 @@
 ---
 title: "What Beers Taste The Best?"
-last_modified_at: 2020-01-25T16:20:02-05:00
 published: True
 categories:
   - Blog
