@@ -11,4 +11,4 @@ Outside of this, I'm also a fan of travel, food, and drink. I enjoy traveling an
 
 Hope you enjoy!
 
-![Me at White Mountain National Park](/assets/images/AboutMe/white_mountains.jpg =250x){:class="img-responsive"}
+![Me at White Mountain National Park](/assets/images/AboutMe/white_mountains.jpg){:class="img-responsive"}
