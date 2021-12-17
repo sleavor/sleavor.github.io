@@ -22,4 +22,4 @@ Next, we examine how a carbon cap will affect the economy of a developing nation
 Finally, there is a discussion on how developed nations can bridge the gap of developing nations. Would it be beneficial for developed nations to pay for the alternative energy sources of countries that are affected by the carbon cap? How much should a nation be willing to fund and does that amount depend on the amount of trade a developed country does with a developing nation?
 
 
-Here, have some $$\pi$$.
+Here, have some $$\(pi\)$$.
