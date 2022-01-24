@@ -3,12 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-My name is Shawn Leavor and I'm a Tampa native. I started this blog as a way to answer and archive random questions that I wanted the answer to. I'm hoping you find the questions as interesting as I do and look into the questions.
+My name is Shawn Leavor and I'm a Tampa native. I started this blog as a way to answer and archive random questions that I wanted the answer to. I'm hoping you find the questions as interesting as I do and look into the questions. I'm interested in improving both my programming and data analysis skills. I hope to learn a lot along the way and hopefully help others learn as well.
 
-I hope that this can become a portfolio for different topics. I'm mostly inspired by the Freakonomics podcast series and the topics that they explore. It also got me interested in pursuing economics. I'm currently attaining my Master's in Economics at the University of Texas at Austin. 
+I plan to touch on a lot of different topics just based on what interests me. I'm mostly inspired by the Freakonomics podcast series and the topics that they explore. It also got me interested in pursuing economics. I'm currently attaining my Master's in Economics at the University of Texas at Austin. 
 
-Outside of this, I'm also a fan of travel, food, and drink. I enjoy traveling and experiencing new things, so occasionally that could show up here as well. I'm open to any suggestions, so feel free to shoot them over to sleavor@gmail.com.
+Outside of this, I'm also a fan of travel, food, and drink. When I have some free time, I like to go hiking and just visiting new places. 
 
-Hope you enjoy!
+Thanks for stopping by and hope you enjoy!
 
 ![Me at White Mountain National Park](/assets/images/AboutMe/white_mountains.jpg){:class="img-responsive"}
+
