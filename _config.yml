@@ -130,9 +130,9 @@ plugins:
 author:
   name   : "Shawn Leavor"
   avatar : "/assets/images/bio-photo.JPG"
-  bio    : "Pursuing an Economics PhD while answering random questions"
+  bio    : "Pursuing an Economics degree while answering random questions"
   location: "Tampa, FL"
-  email: "sleavor@yahoo.com"
+  email: "sleavor@gmail.com"
 
   links:
     - label: "Twitter"
